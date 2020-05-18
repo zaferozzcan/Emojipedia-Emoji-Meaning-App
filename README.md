@@ -1,4 +1,19 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Emojipedia App
+![](emojipedia.png)
+![](emojipedia-1.png)
+
+# Project Outcomes
+<ul>
+  <h3> React App </h3>
+  <li> Understanding React Components </li>
+  <li> Understanding Components Properties </li>
+  <li>  React DevTools </li>
+  <li> Understanding Mapping Data to Components</li>
+  <li>Understanding Javascripts ES6 Map/Filter/Reduce</li>
+</ul>
+
+
 
 ## Available Scripts
 
